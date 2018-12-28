@@ -1,0 +1,20 @@
+﻿<Window x:Name="Mainwindow" x:Class="ProjetDialog.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Closed="Mainwindow_Closed" >
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" Background="#FF69F5EF">
+            <MenuItem Header="_Fichier">
+                <MenuItem Header="_Ouvrir" />
+
+                <Separator />
+                <MenuItem Header="_Quitter" />
+            </MenuItem>
+            <MenuItem Header="Ajouter" Click="ClickAjouter">
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="TextBoxmain" AcceptsReturn="True" TextChanged="TextBox_TextChanged" Background="#FFC9C9C9" Text="Il n'y a aucun animal de renseigné actuellement" />
+    </DockPanel>
+
+</Window>

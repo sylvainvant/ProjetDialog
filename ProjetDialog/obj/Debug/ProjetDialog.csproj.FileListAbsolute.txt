@@ -1,0 +1,14 @@
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\MainWindow.baml
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\SaissieAnimal.baml
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\MainWindow.g.cs
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\SaissieAnimal.g.cs
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\App.g.cs
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\ProjetDialog_MarkupCompile.cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\ProjetDialog.g.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\ProjetDialog.Properties.Resources.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\ProjetDialog.csproj.GenerateResource.Cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\bin\Debug\ProjetDialog.exe.config
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\bin\Debug\ProjetDialog.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\bin\Debug\ProjetDialog.pdb
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\ProjetDialog.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\ProjetDialog\ProjetDialog\obj\Debug\ProjetDialog.pdb
